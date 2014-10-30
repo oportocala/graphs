@@ -1,0 +1,23 @@
+{
+  "name": "graphs",
+  "version": "0.0.0",
+  "description": "Testing Code Climate with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oportocala/graphs.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "66738f121f809a94dba7d3eb47ca239abff7fc91",
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {
+    "karma": "^0.12.24"
+  }
+}
