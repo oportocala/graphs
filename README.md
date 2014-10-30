@@ -1,1 +1,5 @@
-Testing Code Climate with express
+Test
+
+`npm test`
+
+`npm test --coverage`

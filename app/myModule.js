@@ -7,4 +7,5 @@ exports.myFunction = function (number) {
 		return false;
 	}
 
-}
+	//return false;
+};
