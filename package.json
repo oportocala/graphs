@@ -29,7 +29,8 @@
 	"git": {
 		"scripts": {
 			"pre-commit": "npm test",
-			"post-commit": "npm run-script codeclimate"
+			"post-commit": "npm run-script codeclimate",
+			"pre-push": "sleep 5"
 		}
 	}
 }
